@@ -157,13 +157,13 @@ video{
  body{
     background-image: url(../images/Background1.jpg);
  }
- .section1{
+    margin-left: 27px;
     position: absolute;
     display: flex;
     align-items: center;
     justify-content: center;
     z-index: 400;
-    padding: 200px 5% ;
+    padding: 200px 20% 10px;
     top: 0;
  }
   .container h3{
@@ -179,19 +179,7 @@ video{
     text-align: center;
  }
  .text-container{
- padding: 400px 20% 10px;
- }
- .container h2{
-    text-decoration: underline;
-    text-decoration-color: #f8eb33;
-    text-decoration-thickness: 9px;
-    margin-top: 20px;
-    text-align: center;
-    font-size: 40px;
-    font-weight: 700;
- }
-
- .container p{
+ padding: 10px 20% 10px;
     background: rgba(225,255,255,0.3);
     border-radius: 20px;
     color: #000000;
@@ -200,6 +188,15 @@ video{
     font-weight: bold;
     line-height: 1.2;
     text-align: center;
+ }
+ .text-container h2{
+    text-decoration: underline;
+    text-decoration-color: #f8eb33;
+    text-decoration-thickness: 9px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
  }
  /**Services*/
 
