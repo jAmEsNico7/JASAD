@@ -106,7 +106,22 @@ video{
 }
 
 @media screen and (max-width:768px){
+ .text-container{
+    margin-top: 300px;
+ }
+.container h1 h3{
+  text-align: center;
  
+}
+
+video{
+    width: 120%;
+}
+body{
+    overflow-x: hidden;
+}
+
+
     .navigation .navbar .logo-toggle-container{
         position: static;
         transform: translateX(0%);
