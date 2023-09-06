@@ -173,6 +173,7 @@ body{
  body{
     background-image: url(../images/Background1.jpg);
  }
+   .section1{
     margin-left: 27px;
     position: absolute;
     display: flex;
