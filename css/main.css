@@ -173,14 +173,14 @@ body{
  body{
     background-image: url(../images/Background1.jpg);
  }
-   .section1{
+ .section1{
     margin-left: 27px;
     position: absolute;
     display: flex;
     align-items: center;
     justify-content: center;
     z-index: 400;
-    padding: 200px 20% 10px;
+    padding: 10px 20% 10px;
     top: 0;
  }
   .container h3{
