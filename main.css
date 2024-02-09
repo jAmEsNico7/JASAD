@@ -21,6 +21,9 @@
     height: 100%;
     
 }
+ul{
+z-index:1;
+}
 nav{
     height: 90px;
     background-color: #ffffffcc;
