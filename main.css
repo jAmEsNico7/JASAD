@@ -36,6 +36,7 @@ nav img{
 nav ul{
     float: right;
     margin-right: 24px;
+   z-index:10000;
 }
 
 nav ul li{
@@ -423,7 +424,7 @@ a{
 /*Media sizing*/
 @media screen and (max-width:1025px) {
     section{
-        background: #ffffff;
+       
         overflow-x: hidden;
     }
     
